@@ -1,0 +1,31 @@
+﻿@model PortfolioApp.Models.ServiceText
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Update</h1>
+
+<h4>Service Text</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-controller="Add" area="null" asp-action="ServiceText" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Text" class="control-label">Text</label>
+                <input name="Text" value="@Model.Text" asp-for="Text" class="form-control" aria-label="Large" aria-describedby="inputGroup-sizing-sm" />
+                <span asp-validation-for="Text" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>

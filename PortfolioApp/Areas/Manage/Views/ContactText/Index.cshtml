@@ -1,0 +1,37 @@
+﻿@model PortfolioApp.Models.ContactText
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@if (Model == null)
+{
+    <p>
+        @Html.ActionLink("Create New", "Create")
+    </p>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Text)
+        </th>
+        
+        <th></th>
+    </tr>
+
+    
+        <tr>
+            <td>
+                @Html.DisplayFor(model => model.Text)
+            </td>
+            
+            <td>
+                @Html.ActionLink("Edit", "Update", new { id = Model.Id })
+            </td>
+        </tr>
+    
+
+</table>

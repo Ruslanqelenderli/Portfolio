@@ -1,0 +1,100 @@
+﻿@model PortfolioApp.Models.About
+
+@{
+    ViewData["Title"] = "Update";
+    Layout = "~/Areas/Manage/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Update</h1>
+
+<h4>About</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form enctype="multipart/form-data" asp-controller="Abouts"  asp-action="Update" method="post" >
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label">Name</label>
+                <input value="@Model.Name" name="Name" asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Surname" class="control-label">Surname</label>
+                <input value="@Model.Surname" name="Surname" asp-for="Surname" class="form-control" />
+                <span asp-validation-for="Surname" class="text-danger"></span>
+            </div>
+            <img src="~/assets/img/@Model.Photo" width="150" />
+            <div class="form-group">
+                <label asp-for="Photo" class="control-label">Photo</label>
+                <input type="file" accept="image/*" value="@Model.Photo" name="Photo" asp-for="Photo" class="form-control" />
+                <span asp-validation-for="Photo" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Work" class="control-label">Work</label>
+                <input value="@Model.Work" name="Work" asp-for="Work" class="form-control" />
+                <span asp-validation-for="Work" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="PhoneNumber" class="control-label">PhoneNumber</label>
+                <input value="@Model.PhoneNumber" name="PhoneNumber" asp-for="PhoneNumber" class="form-control" />
+                <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="City" class="control-label">City</label>
+                <input value="@Model.City" name="City" asp-for="City" class="form-control" />
+                <span asp-validation-for="City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Country" class="control-label">Country</label>
+                <input value="@Model.Country" name="Country" asp-for="Country" class="form-control" />
+                <span asp-validation-for="Country" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Address" class="control-label">Address</label>
+                <input value="@Model.Address" name="Address" asp-for="Address" class="form-control" />
+                <span asp-validation-for="Address" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Gmail" class="control-label">Gmail</label>
+                <input value="@Model.Gmail" name="Gmail" asp-for="Gmail" class="form-control" />
+                <span asp-validation-for="Gmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Birthday" class="control-label">Birthday</label>
+                <input value="@Model.Birthday" name="Birthday" asp-for="Birthday" class="form-control" />
+                <span asp-validation-for="Birthday" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="University" class="control-label">University</label>
+                <input value="@Model.University" name="University" asp-for="University" class="form-control" />
+                <span asp-validation-for="University" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="AboutHimself" class="control-label">AboutHimself</label>
+                <input value="@Model.AboutHimself" name="AboutHimself" asp-for="AboutHimself" class="form-control" />
+                <span asp-validation-for="AboutHimself" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="HowItStarted" class="control-label">HowItStarted</label>
+                <input value="@Model.HowItStarted" name="HowItStarted" asp-for="HowItStarted" class="form-control" />
+                <span asp-validation-for="HowItStarted" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="RelatedToTheFuture" class="control-label">RelatedToTheFuture</label>
+                <input value="@Model.RelatedToTheFuture" name="RelatedToTheFuture" asp-for="RelatedToTheFuture" class="form-control" />
+                <span asp-validation-for="RelatedToTheFuture" class="text-danger"></span>
+            </div>
+            <input type="hidden" asp-for="Id" />
+
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+
