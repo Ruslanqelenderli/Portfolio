@@ -1,0 +1,14 @@
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\bin\Debug\netcoreapp3.1\OnlineSalesBusiness.deps.json
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\bin\Debug\netcoreapp3.1\OnlineSalesBusiness.dll
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\bin\Debug\netcoreapp3.1\OnlineSalesBusiness.pdb
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\bin\Debug\netcoreapp3.1\OnlineSalesData.dll
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\bin\Debug\netcoreapp3.1\OnlineSalesEntity.dll
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\bin\Debug\netcoreapp3.1\OnlineSalesData.pdb
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\bin\Debug\netcoreapp3.1\OnlineSalesEntity.pdb
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\obj\Debug\netcoreapp3.1\OnlineSalesBusiness.csproj.AssemblyReference.cache
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\obj\Debug\netcoreapp3.1\OnlineSalesBusiness.AssemblyInfoInputs.cache
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\obj\Debug\netcoreapp3.1\OnlineSalesBusiness.AssemblyInfo.cs
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\obj\Debug\netcoreapp3.1\OnlineSalesBusiness.csproj.CoreCompileInputs.cache
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\obj\Debug\netcoreapp3.1\OnlineSalesBusiness.csproj.CopyComplete
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\obj\Debug\netcoreapp3.1\OnlineSalesBusiness.dll
+D:\asp.net core\OnlineSales\Online Sales\OnlineSalesBusiness\obj\Debug\netcoreapp3.1\OnlineSalesBusiness.pdb

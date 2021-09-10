@@ -1,0 +1,49 @@
+﻿@model Online_Sales.ViewModels.CategoryListViewModel
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Admin Categories</h1>
+        <hr>
+        <a class="btn btn-primary btn-sm" href="/category/create">Add Category</a>
+        <hr />
+
+        <table class="table table-bordered">
+            <thead>
+                <tr>
+                    <td style="width: 30px;">Id</td>
+                    <td>Name</td>
+                    <td>Url</td>
+                    <td style="width: 150px;"></td>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Categories.Count > 0)
+                {
+                    @foreach (var item in Model.Categories)
+                    {
+                        <tr>
+                            <td>@item.CategoryId</td>
+                            <td>@item.Name</td>
+                            <td>@item.Url</td>
+                            <td>
+                                <a href="/category/update/@item.CategoryId" class="btn btn-primary btn-sm mr-2">Edit</a>
+
+
+                                <form action="/category/remove" method="post" style="display:inline;">
+                                    <input type="hidden" name="CategoryId" value="@item.CategoryId" />
+                                    <button type="submit" class="btn btn-danger btn-sm">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    }
+                }
+                else
+                {
+                    <partial name="_noproduct" />
+                }
+
+
+            </tbody>
+        </table>
+    </div>
+</div>

@@ -1,0 +1,120 @@
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\appsettings.json
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Online Sales.exe
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Online Sales.deps.json
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Online Sales.runtimeconfig.json
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Online Sales.runtimeconfig.dev.json
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Online Sales.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Online Sales.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Online Sales.Views.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Online Sales.Views.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Humanizer.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\OnlineSalesBusiness.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\OnlineSalesData.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\OnlineSalesEntity.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\OnlineSalesBusiness.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\OnlineSalesData.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\OnlineSalesEntity.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.csproj.AssemblyReference.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.AssemblyInfoInputs.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.AssemblyInfo.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.csproj.CoreCompileInputs.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.RazorAssemblyInfo.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.RazorAssemblyInfo.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\staticwebassets\Online Sales.StaticWebAssets.Manifest.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\staticwebassets\Online Sales.StaticWebAssets.xml
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\scopedcss\bundle\Online Sales.styles.css
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.TagHelpers.input.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.TagHelpers.output.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.RazorCoreGenerate.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.RazorTargetAssemblyInfo.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.RazorTargetAssemblyInfo.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.Views.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.csproj.CopyComplete
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.pdb
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Online Sales.genruntimeconfig.cache
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_categories.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_header.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_navbar.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_noproduct.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_product.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Categories\Default.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Product\List.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Product\Details.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_search.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Product\Search.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Admin\GetAll.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Admin\CreateProduct.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Category\List.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Category\CreateCategory.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Category\Update.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Account\Register.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Account\ConfirmEmail.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\MailKit.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\MimeKit.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\UserRole\CreateRole.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\UserRole\RoleList.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\UserRole\EditRole.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Account\Accessdenied.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\UserRole\UserList.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\UserRole\EditUser.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Cart\AddToCart.cshtml.g.cs
+D:\asp.net core\OnlineSales\Online Sales\Online Sales\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
